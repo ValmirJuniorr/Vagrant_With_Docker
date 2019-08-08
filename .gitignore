@@ -1,4 +1,6 @@
 /.vagrant
-/dev
-/volumes
+dev/*
+volumes/*
 *.log
+!volumes/.keep
+!dev/.keep
